@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-<p>This is poll on every commit</p>
+<h2>Hello World! Welcome to Devops</h2>
+<p>pushing the code to github and deploying the code on tomcat</p>
 </body>
 </html>
